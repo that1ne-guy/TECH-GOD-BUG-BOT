@@ -1,10 +1,10 @@
-//base by Tech-God
+//base by .exe.
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
+//YouTube: 
+//Instagram: 
+//Telegram: 
+//GitHub: @Lowkey-pabs
+//WhatsApp: +2347048975619
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 
 require('./settings')
